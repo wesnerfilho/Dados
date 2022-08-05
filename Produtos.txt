@@ -1,2 +1,5 @@
 Mouse
 Teclado
+Impressora
+Monitor 
+Pen Drive
